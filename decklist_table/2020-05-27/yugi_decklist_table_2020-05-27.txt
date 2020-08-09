@@ -1,0 +1,82 @@
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                      Name                     |    Rarity   | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  1  |                 Dark Magician                 | Pris Secret | Unl |  DDS-002   |  ENG  |    697.62   |   1305.99    |    111.89   |  71.53   |  122.29  |   62.6   |
+|  1  |               Dark Magician Girl              |    Secret   | Unl |  MFC-000   |  ENG  |    482.89   |   9000.01    |     70.0    |  16.89   |  34.93   |  389.65  |
+|  1  |             Dark Magician of Chaos            |    Ultra    | Unl |  IOC-065   |  ENG  |    19.77    |    395.79    |     5.77    |  155.76  |  14.94   |  48.09   |
+|  1  | Black Luster Soldier - Envoy of the Beginning |    Secret   | Lim | MC2-EN004  |  ENG  |    41.28    |    88.78     |    19.99    |   68.7   |  71.86   |  71.71   |
+|  1  |                 Buster Blader                 |    Secret   | Lim |  BPT-008   |  ENG  |    19.93    |    142.07    |     5.06    |  57.55   |  58.17   |  76.84   |
+|  1  |                 Summoned Skull                |    Secret   | Lim |  BPT-002   |  ENG  |    38.52    |    509.0     |     10.0    |  73.98   |  59.04   |  45.03   |
+|  1  |               Red-Eyes B. Dragon              |    Secret   | Lim |  BPT-005   |  ENG  |    72.35    |    184.86    |    39.99    |   95.3   |  123.76  |  124.87  |
+|  1  |        Slifer the Sky Dragon (original)       |    Secret   | Lim | YMA-EN001  |  ENG  |    33.63    |   2499.95    |    17.07    |  -10.25  |  -17.55  |   3.7    |
+|  1  |                 Jack's Knight                 |   Ultimate  | Unl | EEN-EN005  |  ENG  |     0.98    |    52.06     |     0.86    |   2.08   |  -14.78  |  -85.42  |
+|  1  |                 Queen's Knight                |   Ultimate  | Unl | EEN-EN004  |  ENG  |     1.02    |    106.5     |     0.86    |   0.99   |  -11.3   |  -73.78  |
+|  1  |                 King's Knight                 |   Ultimate  | Unl | EEN-EN006  |  ENG  |     1.05    |    36.81     |     0.93    |   0.96   |  -6.25   |  -63.92  |
+|  1  |          Breaker The Magical Warrior          |    Secret   | Lim | MC2-EN002  |  ENG  |    14.16    |    14.99     |     6.75    |  -15.71  |  -2.21   |  -14.54  |
+|  1  |              Magician's Valkyria              |    Ultra    | Lim | JUMP-EN009 |  ENG  |    12.01    |    15.26     |     8.95    |  -37.84  |  58.65   |  -12.84  |
+|  1  |             Skilled Dark Magician             |    Super    | Unl |  MFC-065   |  ENG  |     6.97    |    83.15     |     2.95    |  75.57   |  47.05   |  53.19   |
+|  1  |                   Gemini Elf                  |    Secret   | Unl |  LON-000   |  ENG  |    28.51    |    808.8     |     7.35    |  188.56  |  244.32  |   -4.3   |
+|  1  |                  Mystical Elf                 |    Super    | Unl | LOB-EN062  |  ENG  |    30.53    |    30.53     |    30.53    |  178.05  |   67.2   |  201.98  |
+|  1  |           Witch Of The Black Forest           |     Rare    | Unl |  MRD-116   |  ENG  |     1.42    |    88.81     |     0.86    |   0.0    |  -4.05   |  -11.8   |
+|  1  |                     Sangan                    |    Ultra    | Unl | TU06-EN001 |  ENG  |    23.14    |     50.0     |    14.47    |  33.06   |  23.28   |  37.74   |
+|  1  |                   Cyber Jar                   |   Ultimate  | 1st | DPKB-EN010 |  ENG  |    43.43    |    89.99     |    16.99    |  145.37  |  153.09  |  100.42  |
+|  1  |               Magician Of Faith               |     Rare    | Unl | MRD-EN036  |  ENG  |     11.0    |     11.0     |     11.0    |   0.0    |  151.14  |  151.14  |
+|  1  |                  Pot of Greed                 |   Ultimate  | 1st | DPKB-EN029 |  ENG  |     51.4    |    150.0     |     40.0    |   6.24   |   1.22   |  81.63   |
+|  1  |                Graceful Charity               |    Super    | Unl |  SDP-040   |  ENG  |     4.45    |    39.84     |     2.78    |  39.94   |  31.27   |   14.1   |
+|  1  |                 Monster Reborn                |    Ultra    | Unl |  LOB-118   |  ENG  |     9.38    |   1695.75    |     3.94    |  86.48   |  68.71   |  -23.74  |
+|  1  |                Premature Burial               |    Ultra    | Unl |  PSV-037   |  ENG  |     9.01    |     60.0     |     3.07    |   94.6   |  72.61   |  34.28   |
+|  1  |                Change Of Heart                |    Ultra    | Unl |  MRD-060   |  ENG  |     7.53    |    2000.0    |     3.82    |  16.74   |  26.98   |  -24.09  |
+|  1  |                 Brain Control                 |    Super    | Unl | TLM-EN038  |  ENG  |     1.32    |    47.09     |     1.03    |  -0.75   |  -16.98  |  -23.26  |
+|  1  |               Dark Magic Curtain              |    Secret   | Unl | PP01-EN008 |  ENG  |     1.51    |    29.51     |     1.03    |   7.09   |   0.0    |  15.27   |
+|  1  |                  Sage's Stone                 | Pris Secret | Unl | ROD-EN003  |  ENG  |    10.38    |     55.0     |     4.08    |  -13.14  |  113.14  |  18.36   |
+|  1  |      Polymerization (alternate password)      |    Super    | 1st | DPYG-EN020 |  ENG  |     6.16    |    17.38     |     4.48    |   6.57   |   6.94   |   5.48   |
+|  1  |           Swords of Revealing Light           |    Super    | Unl |  LOB-101   |  ENG  |     3.01    |    174.99    |     1.62    |   20.4   |  28.63   |   4.88   |
+|  1  |                Card Destruction               |    Super    | Unl |  SDY-042   |  ENG  |     1.98    |    152.06    |     0.97    |  -5.26   |  38.46   |  -42.94  |
+|  1  |             Mystical Space Typhoon            |    Ultra    | Unl |  MRL-047   |  ENG  |     4.8     |    200.0     |     1.5     |  -9.94   |  -21.05  |  -30.33  |
+|  1  |                    Exchange                   | Pris Secret | Unl |  EDS-001   |  ENG  |     6.89    |    39.99     |     2.85    |   -8.5   |   0.15   |  106.91  |
+|  1  |                  Mirror Force                 |    Ultra    | Unl |  MRD-138   |  ENG  |     7.97    |    858.8     |     4.63    |  37.18   |  -0.75   |  -27.21  |
+|  1  |              Spellbinding Circle              |    Ultra    | Unl |  MRL-006   |  ENG  |     6.26    |    75.93     |     2.33    |  24.45   |  15.93   |  -47.44  |
+|  1  |                 Magic Cylinder                |    Secret   | Unl |  LON-104   |  ENG  |     5.08    |    160.0     |     2.98    |   0.99   |  -2.68   |  -3.42   |
+|  1  |                  Dark Renewal                 |    Secret   | Unl | YGLD-ENB00 |  ENG  |     1.77    |    34.28     |     0.79    |  18.79   |  -39.59  |  -66.09  |
+|  1  |                  Magical Hats                 |    Super    | Unl |  PSV-033   |  ENG  |     5.28    |     55.0     |     1.76    |  123.73  |  77.78   |  -39.24  |
+|  1  |               Magician's Circle               |    Super    | Unl | NTR-EN003  |  ENG  |     4.5     |    12.16     |     1.58    |  34.73   |  -1.96   |  -8.91   |
+|  1  |                  Dust Tornado                 |    Super    | Unl |  PSV-011   |  ENG  |     3.57    |    33.75     |     1.4     |  123.12  |  24.83   |  -20.31  |
+|  1  |                B. Skull Dragon                |    Secret   | Lim |  BPT-006   |  ENG  |    45.62    |    139.98    |     4.99    |  219.69  |  99.56   |  165.54  |
+|  1  |                  Dark Paladin                 |    Secret   | Lim |  DMG-001   |  ENG  |    49.59    |    283.98    |    15.02    |  19.58   |  33.23   |  97.26   |
+|  1  |              Arcana Knight Joker              |     Rare    | Unl | ANPR-EN090 |  ENG  |     1.27    |     5.99     |     0.99    |   0.79   |  -6.62   |  -47.08  |
+|  1  |       Chimera The Flying Mythical Beast       |     Rare    | 1st | ABPF-EN092 |  ENG  |     0.97    |     4.93     |     0.54    |   0.0    |  -10.19  |  -11.01  |
+|  1  |          Valkyrion The Magna Warrior          | Pris Secret | Unl |  SDD-001   |  ENG  |    11.76    |     17.5     |     4.95    |  64.48   |  80.09   |  85.78   |
+|  1  |            Alpha The Magnet Warrior           | Pris Secret | Unl |  DOR-001   |  ENG  |    10.56    |    47.07     |     1.38    |  164.0   |  256.76  |  174.29  |
+|  1  |            Beta The Magnet Warrior            | Pris Secret | Unl |  DOR-002   |  ENG  |    10.38    |    15.94     |     8.5     |   73.0   |  86.36   |  72.43   |
+|  1  |            Gamma the Magnet Warrior           | Pris Secret | Unl |  DOR-003   |  ENG  |     6.79    |    100.74    |     1.48    |  92.35   |   92.9   |  31.84   |
+|  1  |             Obnoxious Celtic Guard            |    Secret   | Lim | CT1-EN006  |  ENG  |     9.31    |    93.12     |     3.25    |  113.53  |  105.52  |  102.83  |
+|  1  |          Swift Gaia The Fierce Knight         |    Secret   | Lim | CT1-EN004  |  ENG  |    12.49    |    102.07    |     3.47    |   0.73   |  137.45  |  209.93  |
+|  1  |                    Kuriboh                    |    Super    | Unl |  MRD-071   |  ENG  |     1.8     |     89.0     |     1.43    |   2.86   |  -3.23   |  -26.83  |
+|  1  |               Big Shield Gardna               |    Ultra    | Unl | DB1-EN097  |  ENG  |     6.54    |    11.08     |     3.74    |  -5.76   |   -7.5   |  12.76   |
+|  1  |             Giant Soldier Of Stone            |     Rare    | Unl |  LOB-068   |  ENG  |     3.11    |    53.74     |     0.57    |  180.18  |  163.56  |  -60.03  |
+|  1  |                Card of Sanctity               |    Super    | Unl | TLM-EN037  |  ENG  |     1.71    |     10.0     |     0.66    |   0.0    |   1.18   |  -3.93   |
+|  1  |                  Double Spell                 |    Ultra    | Unl |  MFC-106   |  ENG  |     2.75    |    82.24     |     1.42    |  36.14   |  40.31   |  -55.28  |
+|  1  |               Dark Magic Attack               |    Ultra    | Unl |  AST-095   |  ENG  |    19.64    |    203.98    |     4.98    |  13.59   |  10.84   |   -4.1   |
+|  1  |               Dark Burning Magic              |    Secret   | Lim | LDK2-ENS05 |  ENG  |     5.61    |    53.75     |     3.25    |  -48.63  |  -51.72  |  -60.91  |
+|  1  |              Dark Burning Attack              |    Secret   | Lim | LDK2-ENS04 |  ENG  |     3.33    |    27.65     |     1.65    |   8.12   |  14.43   |  -10.0   |
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-27
++---------+-------+-----+
+| Average |  High | Low |
++---------+-------+-----+
+|   1936  | 22749 | 531 |
++---------+-------+-----+
++------+------------+------------+-------------+-----------------------+---------------+
+| Rare | Super Rare | Ultra Rare | Secret Rare | Prismatic Secret Rare | Ultimate Rare |
++------+------------+------------+-------------+-----------------------+---------------+
+|  5   |     12     |     12     |      17     |           7           |       5       |
++------+------------+------------+-------------+-----------------------+---------------+
++-----+
+| ENG |
++-----+
+|  58 |
++-----+
++-----+------+--------------+-------------+
+| Set | Name | Foreign Name | Foreign Set |
++-----+------+--------------+-------------+
++-----+------+--------------+-------------+

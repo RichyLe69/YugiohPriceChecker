@@ -1,0 +1,57 @@
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |              Name             |  Rarity  | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  2  |       Dark Armed Dragon       | Ultimate | Unl | TU06-EN000 |  ENG  |    279.93   |   2499.95    |    149.95   |   3.99   |   86.0   |  137.49  |
+|  1  |    Caius the Shadow Monarch   | Ultimate | Unl | TU03-EN000 |  ENG  |    61.32    |    80.99     |    48.74    |   34.0   |  50.59   |  -5.52   |
+|  3  |    Destiny HERO - Malicious   |  Ultra   | 1st | DP05-EN011 |  ITA  |    17.36    |    29.96     |     7.99    |  -0.17   |   2.0    |  112.48  |
+|  1  | Gorz the Emissary of Darkness |  Secret  | Lim | RP02-EN000 |  ENG  |     6.15    |    23.18     |     2.97    |   7.33   |  -34.64  |  -19.92  |
+|  1  |          Dark Grepher         |  Secret  | 1st | PTDN-EN000 |  ENG  |     30.8    |    99.99     |    18.75    |  -10.75  |  -2.35   |   6.83   |
+|  1  |  Destiny HERO - Diamond Dude  | Ultimate | 1st | EOJ-EN003  |  DEU  |     1.02    |    25.42     |     0.88    |  -2.86   |  -8.93   |  -93.74  |
+|  1  |     Plaguespreader Zombie     | Ultimate | 1st | CSOC-EN031 |  ITA  |     3.69    |    299.95    |     1.9     |  -62.84  |  -5.63   |  -63.93  |
+|  1  |           D.D. Crow           | Ultimate | 1st | STON-EN024 |  ENG  |     3.88    |   1049.99    |     2.49    |  72.44   |  49.23   |  -88.15  |
+|  1  |  Breaker the Magical Warrior  |  Ultra   | Unl |  MFC-071   |  ENG  |    16.76    |    115.0     |     3.63    |  143.25  |  91.98   |  -25.41  |
+|  1  |             Sangan            |  Super   | Unl | RP01-EN036 |  ENG  |    50.08    |     41.2     |     40.0    |   5.08   |  -18.87  |   95.4   |
+|  1  |     Elemental Hero Stratos    |  Ultra   | Lim | JUMP-EN012 |  ENG  |    11.94    |     35.0     |     4.39    |  23.35   |  20.48   |  10.56   |
+|  3  |            Krebons            |  Super   | Unl | TU01-EN003 |  DEU  |    14.44    |     49.9     |     9.42    |  -0.82   |   -4.5   |  43.54   |
+|  3  |       Allure of Darkness      | Ultimate | 1st | PTDN-EN084 |  ITA  |    24.13    |    199.95    |     19.0    |  23.62   |  33.02   |  -50.21  |
+|  3  |       Emergency Teleport      | Ultimate | 1st | TDGS-EN053 |  DEU  |     6.83    |    87.07     |     3.27    |  -63.63  |  -71.21  |  -55.68  |
+|  3  |          Destiny Draw         |  Ultra   | 1st | DP05-EN020 |  ITA  |     2.8     |    32.03     |     1.51    |  -3.78   |  -21.13  |  -14.63  |
+|  1  |        Lightning Vortex       | Ultimate | 1st | FET-EN040  |  FRE  |     5.05    |    333.5     |     4.08    |   2.64   |   6.99   |  -77.22  |
+|  1  |         Brain Control         | Ultimate | 1st | TLM-EN038  |  DEU  |     1.32    |    88.99     |     1.03    |  -2.22   |  -16.98  |  -86.02  |
+|  1  |     Mystical Space Typhoon    |  Ultra   | Unl |  MRL-047   |  ENG  |     5.49    |    200.0     |     1.5     |   2.04   |  -11.31  |  -17.57  |
+|  1  |         Monster Reborn        |  Ultra   | Unl |  LOB-118   |  ENG  |     7.65    |   1695.75    |     4.23    |  -3.53   |  35.64   |  -38.8   |
+|  2  |   Reinforcement of the Army   |  Super   | Unl |  LOD-028   |  ENG  |     5.87    |    59.99     |     1.73    |  108.16  |  139.59  |  56.95   |
+|  1  |        Crush Card Virus       | Ultimate | 1st | DPKB-EN039 |  ENG  |    57.54    |    107.99    |     6.89    |  222.35  |  198.75  |  234.15  |
+|  2  |    Phoenix Wing Wind Blast    | Ultimate | Unl | FET-EN053  |  ENG  |     1.33    |    62.19     |     0.97    |  -76.5   |  -13.64  |  -84.7   |
+|  3  |        Solemn Judgment        |  Ultra   | Unl |  MRD-127   |  ENG  |    12.25    |    402.06    |     7.0     |  -9.53   |   7.93   |  155.21  |
+|  1  |       Torrential Tribute      |  Ultra   | Unl |  LON-025   |  ENG  |     4.76    |    203.99    |     1.85    |  34.84   |   3.7    |  -11.69  |
+|  2  |        Stardust Dragon        | Ultimate | Unl | TDGS-EN040 |  ENG  |     7.55    |    214.99    |     4.98    |   4.28   |  -52.72  |  -79.26  |
+|  2  |      Red Dragon Archfiend     | Ultimate | Unl | TDGS-EN041 |  ENG  |     8.31    |    199.99    |     3.18    |  -26.59  |  -32.16  |  -46.8   |
+|  2  |       Black Rose Dragon       | Ultimate | Unl | CSOC-EN039 |  ENG  |     4.48    |    134.99    |     2.38    |  31.38   |  21.41   |  -76.85  |
+|  2  |        Colossal Fighter       | Ultimate | Unl | TU05-EN000 |  ENG  |    27.05    |    799.95    |     15.1    |  17.76   |   23.8   |  13.37   |
+|  2  |    Thought Ruler Archfiend    | Ultimate | 1st | TDGS-EN044 |  FRE  |     4.86    |     74.9     |     2.78    |   3.62   |   7.05   |  -5.81   |
+|  2  |         Goyo Guardian         | Ultimate | 1st | TDGS-EN042 |  ENG  |     4.12    |     51.0     |     1.99    |  39.66   |  45.07   |  -11.4   |
+|  1  |      Revived King Ha Des      | Ultimate | 1st | CSOC-EN044 |  ITA  |     5.62    |     25.0     |     4.28    |   0.36   |  -18.9   |  20.86   |
+|  1  |       Doomkaiser Dragon       | Ultimate | 1st | CSOC-EN043 |  FRE  |     9.57    |    99.95     |     6.3     |  20.99   |  16.99   |   9.75   |
+|  1  |    Ally of Justice Catastor   | Ultimate | Unl | TU07-EN000 |  ENG  |    30.11    |    249.95    |    17.59    |  44.34   |  23.35   |  -3.99   |
+|  1  |      Ancient Fairy Dragon     | Ultimate | Unl | ANPR-EN040 |  ENG  |     4.78    |    105.97    |     3.53    |  -27.02  |  -34.16  |  -64.41  |
+|  1  |       Power Tool Dragon       | Ultimate | 1st | RGBT-EN042 |  ENG  |    11.02    |    63.22     |     4.77    |  59.94   |  23.82   |  -46.09  |
+|  1  |      Shooting Star Dragon     | Ultimate | 1st | STBL-EN040 |  ENG  |    203.97   |    402.06    |     9.99    |  704.93  |  596.14  |  632.12  |
+|  1  |        Red Nova Dragon        | Ultimate | 1st | STBL-EN042 |  ENG  |    18.41    |   1008.98    |     4.96    |  30.57   |   12.6   |  -19.36  |
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-18
++---------+-------+-----+
+| Average |  High | Low |
++---------+-------+-----+
+|   972   | 11255 | 426 |
++---------+-------+-----+
++------------+------------+-------------+---------------+
+| Super Rare | Ultra Rare | Secret Rare | Ultimate Rare |
++------------+------------+-------------+---------------+
+|     6      |     14     |      2      |       36      |
++------------+------------+-------------+---------------+
++-----+-----+-----+-----+
+| ENG | DEU | ITA | FRE |
++-----+-----+-----+-----+
+|  35 |  8  |  11 |  4  |
++-----+-----+-----+-----+

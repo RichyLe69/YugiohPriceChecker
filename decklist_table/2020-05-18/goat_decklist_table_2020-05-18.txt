@@ -1,0 +1,62 @@
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                      Name                     |    Rarity   | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  1  | Black Luster Soldier - Envoy of the Beginning |    Secret   | Lim | MC2-EN004  |  ENG  |    25.63    |     87.1     |    16.33    |   6.93   |  14.42   |  -1.23   |
+|  1  |                     Jinzo                     |    Secret   | Lim |  PSV-000   |  ENG  |    33.09    |    713.8     |    14.53    |  37.65   |  136.53  |  15.18   |
+|  1  |               Airknight Parshath              |    Ultra    | Unl |  LOD-062   |  ENG  |    18.96    |    96.67     |     5.61    |  -0.05   |  -5.53   |  -36.63  |
+|  1  |                Exarion Universe               |    Secret   | Lim | CT2-EN002  |  ENG  |     7.32    |    59.99     |     2.99    |  21.59   |  148.98  |  88.17   |
+|  1  |                 D.D. Assailant                |    Super    | Unl | DBT-EN002  |  ENG  |     7.51    |    16.98     |     1.82    |  71.46   |  71.85   |  73.04   |
+|  2  |                   Tsukuyomi                   |   Ultimate  | Unl | AP01-EN001 |  ENG  |    94.49    |    169.99    |    59.95    |  113.44  |  67.09   |  190.47  |
+|  1  |          Breaker the Magical Warrior          |    Secret   | Lim | MC2-EN002  |  ENG  |    14.09    |    14.99     |     7.07    |  -2.83   |  50.53   |  -14.03  |
+|  1  |             Tribe-Infecting Virus             |    Super    | Unl |  MFC-076   |  ENG  |     9.72    |    59.99     |     4.78    |   3.18   |  -16.21  |  25.91   |
+|  1  |                     Sangan                    |      HL     | Unl | HL2-EN003  |  ENG  |    12.96    |    16.96     |     9.36    |  41.02   |   29.6   |  11.05   |
+|  1  |                Sinister Serpent               | Pris Secret | Unl |  SDD-002   |  ENG  |     9.47    |     55.0     |     4.94    |  -9.55   |   64.7   |  147.91  |
+|  2  |               Magician of Faith               |    Ultra    | 1st | DUSA-EN044 |  ENG  |     4.08    |    23.93     |     2.48    |  -1.92   |  17.24   |  14.93   |
+|  2  |                Magical Merchant               |     Star    | 1st | SP14-EN040 |  ENG  |     5.58    |     7.22     |     4.0     |  -4.12   |  -6.53   |  179.0   |
+|  1  |                Night Assailant                |     Rare    | Unl | DR2-EN193  |  ENG  |     6.55    |     6.55     |     6.55    |  13.91   |  18.44   |  21.97   |
+|  1  |                  Morphing Jar                 |    Ultra    | Unl | LCYW-EN121 |  ENG  |     4.95    |     27.5     |     2.53    |  55.66   |  56.65   |  30.95   |
+|  3  |                 Metamorphosis                 |     None    | Unl |  PGD-090   |  ENG  |     5.44    |    27.57     |     2.5     |  30.77   |  19.82   |   5.84   |
+|  1  |                   Scapegoat                   |      HL     | Unl | HL05-EN006 |  ENG  |    10.05    |     23.0     |     5.12    |  99.01   |  70.63   |  78.19   |
+|  1  |                  Pot of Greed                 |   Ultimate  | 1st | DPKB-EN029 |  ENG  |    68.65    |    99.99     |    47.49    |  38.69   |   33.9   |  132.0   |
+|  1  |                 Delinquent Duo                |    Ultra    | 1st |  MRL-039   |  ENG  |    19.57    |    262.96    |     4.98    |  97.08   |  75.52   |  55.69   |
+|  1  |                Graceful Charity               |      HL     | Unl | HL04-EN004 |  ENG  |    16.77    |    32.31     |    13.99    |   67.2   |  76.16   |   84.9   |
+|  1  |             Mystical Space Typhoon            |    Ultra    | Unl |  MRL-047   |  ENG  |     5.49    |    200.0     |     1.5     |   2.04   |  -11.31  |  -17.57  |
+|  1  |                  Heavy Storm                  |      HL     | Unl | HL2-EN004  |  ENG  |    10.78    |    14.16     |     7.99    |  -5.11   |  17.81   |   4.36   |
+|  1  |                  Snatch Steal                 |    Ultra    | Unl |  MRL-036   |  ENG  |     7.9     |    69.99     |     3.5     |  43.64   |  30.58   |  -9.82   |
+|  1  |                Premature Burial               |    Ultra    | Unl |  PSV-037   |  ENG  |     8.87    |     60.0     |     3.11    |  85.36   |  72.71   |  28.78   |
+|  2  |              Nobleman of Crossout             |      HL     | Unl | HL06-EN001 |  ENG  |    11.88    |    61.57     |     5.59    |  56.94   |   7.03   |  -35.33  |
+|  2  |                  Book of Moon                 |    Ultra    | Unl | TU07-EN001 |  ENG  |    18.26    |    51.98     |    14.95    |  -30.23  |  -5.92   |  -36.24  |
+|  1  |              Ring of Destruction              |   Ultimate  | Unl | DPKB-EN036 |  ENG  |    18.46    |    56.93     |     6.2     |   2.5    |  10.14   |  -13.9   |
+|  1  |                  Mirror Force                 |    Ultra    | 1st | DPYG-EN027 |  ENG  |     2.14    |    16.36     |     1.16    |  -2.28   |  -18.32  |  -33.75  |
+|  1  |              Call of the Haunted              |      HL     | Unl | HL06-EN005 |  ENG  |    13.08    |     49.9     |     5.01    |  97.58   |  131.5   |  92.07   |
+|  1  |                Sakuretsu Armor                |    Super    | 1st | LCYW-EN288 |  ENG  |     14.1    |    23.81     |     6.07    |  191.32  |  191.32  |  325.98  |
+|  1  |                  Dust Tornado                 |    Ultra    | Unl | LCYW-EN095 |  ENG  |     4.12    |     60.0     |     2.85    |  35.08   |   64.8   |  97.13   |
+|  1  |               Torrential Tribute              |    Secret   | 1st | LCYW-EN180 |  ENG  |     3.49    |     34.2     |     1.89    |   11.5   |  15.95   |  10.44   |
+|  1  |                  Divine Wrath                 |   Ultimate  | 1st | RDS-EN050  |  ENG  |     1.28    |     34.9     |     0.98    |   4.07   |  -8.57   |  -80.52  |
+|  4  |             Thousand-Eyes Restrict            |    Ultra    | Unl |  PSV-084   |  ENG  |    36.36    |    143.99    |     9.5     |  251.64  |  130.56  |  186.52  |
+|  2  |            Dark Balter The Terrible           |      HL     | Unl | HL03-EN007 |  ENG  |     6.61    |     7.49     |     2.4     |  -35.07  |  12.61   |  37.14   |
+|  1  |                   Ojama King                  |   Ultimate  | Unl | SOD-EN034  |  ENG  |     3.05    |    81.57     |     1.99    |  40.55   |  35.56   |  -56.98  |
+|  1  |          Dark Blade The Dragon Knight         |   Ultimate  | Unl | RDS-EN035  |  ENG  |     2.07    |    42.44     |     1.61    |   4.04   |  16.38   |  -72.12  |
+|  1  |                 Gatling Dragon                |   Ultimate  | Unl | FET-EN035  |  ENG  |    32.98    |    114.95    |     7.99    |  220.1   |  196.49  |  136.17  |
+|  1  |                  Master of Oz                 |   Ultimate  | Unl | SOD-EN035  |  ENG  |     3.63    |     46.5     |     1.78    |  -8.56   |  -62.54  |  -48.58  |
+|  1  |               Fiend Skull Dragon              |    Super    | Unl |  LOD-039   |  ENG  |     4.49    |    93.46     |     0.99    |  109.81  |  126.77  |  21.35   |
+|  2  |                   Ryu Senshi                  |    Super    | 1st |  LOD-019   |  ENG  |     3.69    |     31.2     |     1.48    |  29.02   |   0.82   |  -21.66  |
+|  1  |            Reaper On The Nightmare            |    Super    | Unl |  PGD-078   |  ENG  |     5.53    |     50.0     |     4.55    |  -2.81   |  -26.75  |  -40.73  |
+|  1  |      The Last Warrior From Another Planet     |    Ultra    | Unl |  LON-077   |  ENG  |    13.96    |    402.02    |     6.74    |  -67.27  |  -8.76   |  -16.11  |
++-----+-----------------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-18
++---------+------+-----+
+| Average | High | Low |
++---------+------+-----+
+|   607   | 3550 | 317 |
++---------+------+-----+
++--------+------+------------+------------+-------------+-----------------------+---------------+
+| Common | Rare | Super Rare | Ultra Rare | Secret Rare | Prismatic Secret Rare | Ultimate Rare |
++--------+------+------------+------------+-------------+-----------------------+---------------+
+|   3    |  1   |     7      |     17     |      5      |           1           |       9       |
++--------+------+------------+------------+-------------+-----------------------+---------------+
++-----+
+| ENG |
++-----+
+|  54 |
++-----+

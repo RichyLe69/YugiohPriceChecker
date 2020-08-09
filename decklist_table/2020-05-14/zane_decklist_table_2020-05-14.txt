@@ -1,0 +1,47 @@
++-----+-------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                 Name                |  Rarity  | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  3  |             Cyber Dragon            | Ultimate | Unl | CRV-EN015  |  JPN  |     2.8     |    492.07    |     1.76    |  18.14   |  -10.26  |  -96.02  |
+|  1  |          Cyber Laser Dragon         | Ultimate | Unl | SOI-EN007  |  DEU  |     5.83    |    34.98     |     2.77    |  17.07   |  12.55   |  -65.93  |
+|  1  |         Cyber Barrier Dragon        | Ultimate | Unl | SOI-EN006  |  DEU  |     1.84    |    149.95    |     1.4     |   8.88   |   -6.6   |  -88.52  |
+|  3  |            Cyber Phoenix            | Ultimate | 1st | EOJ-EN009  |  ENG  |     1.18    |     43.9     |     1.03    |   2.61   |  -4.07   |  -89.48  |
+|  3  |          Proto-Cyber Dragon         | Ultimate | Unl | SOI-EN010  |  ENG  |     1.05    |    30.47     |     0.93    |  -0.94   |  -7.08   |  -83.85  |
+|  1  |            Cyberdark Horn           | Ultimate | 1st | CDIP-EN001 |  ENG  |     1.95    |    82.34     |     1.27    |   1.04   |  -13.33  |  -61.31  |
+|  1  |            Cyberdark Edge           | Ultimate | Unl | CDIP-EN002 |  DEU  |     2.15    |     2.57     |     1.27    |  14.97   |   1.9    |   11.4   |
+|  1  |            Cyberdark Keel           | Ultimate | 1st | CDIP-EN003 |  ENG  |     2.08    |    149.95    |     1.27    |   4.52   |   -3.7   |  -74.94  |
+|  3  |             Cyber Valley            |  Ultra   | 1st | LCGX-EN179 |  ENG  |     2.28    |     27.8     |     0.77    |  25.41   |  -2.99   |   0.0    |
+|  1  |         Perfect Machine King        | Ultimate | Unl | RDS-EN012  |  DEU  |     5.11    |    599.95    |     2.78    |  -1.54   |  11.33   |  -36.05  |
+|  1  |             Pot of Greed            | Ultimate | 1st | DPKB-EN029 |  SPA  |    69.48    |    99.99     |    48.75    |   40.7   |  34.68   |  134.89  |
+|  2  |         Machine Duplication         | Ultimate | 1st | RDS-EN041  |  ENG  |     7.01    |    100.0     |     5.0     |  126.13  |  132.12  |  -63.88  |
+|  2  |           Overload Fusion           | Ultimate | Unl | POTD-EN042 |  DEU  |     1.39    |    99.99     |     1.18    |   6.11   |  -6.71   |  -94.34  |
+|  1  |            Future Fusion            | Ultimate | Unl | POTD-EN044 |  ENG  |     1.55    |    79.95     |     1.08    |   6.9    |   1.97   |  -85.97  |
+|  3  |              Power Bond             | Ultimate | Unl | CRV-EN037  |  DEU  |     6.05    |    168.98    |     4.25    |  13.51   |  -14.55  |  -91.69  |
+|  1  |           Graceful Charity          |  Super   | Unl |  SDP-040   |  ENG  |     4.38    |    59.99     |     2.92    |  36.88   |  28.82   |  47.97   |
+|  1  |          Cyberdark Impact!          |  Secret  | Unl | TAEV-EN054 |  ENG  |     28.7    |    69.95     |    15.99    |  -1.75   |  -10.87  |  -25.67  |
+|  1  |            Polymerization           |  Super   | Unl |  LOB-059   |  ENG  |     6.04    |   1015.75    |     2.99    |  119.64  |  75.07   |  66.85   |
+|  1  |              De-fusion              |  Super   | Unl |  LON-097   |  ENG  |     1.45    |    30.56     |     0.97    |   3.57   |  -36.12  |  -26.02  |
+|  1  |           Limiter Removal           |  Super   | Unl | RP02-EN015 |  ENG  |     4.87    |    33.36     |     3.23    |  -8.97   |  -7.59   |  -13.5   |
+|  1  |              Megamorph              |  Ultra   | Unl |  MRL-061   |  ENG  |     2.78    |    255.7     |     1.66    |   18.8   |   14.4   |  -33.81  |
+|  2  |           Rare Metalmorph           | Ultimate | 1st | RDS-EN052  |  ENG  |     0.95    |    13.14     |     0.85    |   1.06   |   -5.0   |  -58.52  |
+|  1  | Return from the Different Dimension |  Super   | 1st | DPKB-EN038 |  ENG  |     4.12    |    11.88     |     2.0     |  27.55   |  56.65   |  20.12   |
+|  4  |          Cyber Twin Dragon          | Ultimate | 1st | CRV-EN035  |  DEU  |     1.21    |    299.99    |     1.03    |   5.22   |  -12.95  |  -97.31  |
+|  3  |           Cyberdark Dragon          | Ultimate | 1st | CDIP-EN035 |  DEU  |     9.4     |    23.49     |     6.99    |   0.86   |  -33.05  |  -88.99  |
+|  3  |        Chimeratech Overdragon       | Ultimate | Unl | POTD-EN034 |  DEU  |     3.88    |    149.99    |     2.03    |   3.19   |  10.23   |  11.17   |
+|  3  |     Chimeratech Fortress Dragon     |  Ultra   | Unl | JUMP-EN031 |  ENG  |     5.64    |    28.92     |     3.61    |   -1.4   |  17.99   |  -13.36  |
++-----+-------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-14
++---------+------+-----+
+| Average | High | Low |
++---------+------+-----+
+|   185   | 4156 | 120 |
++---------+------+-----+
++------------+------------+-------------+---------------+
+| Super Rare | Ultra Rare | Secret Rare | Ultimate Rare |
++------------+------------+-------------+---------------+
+|     5      |     7      |      1      |       36      |
++------------+------------+-------------+---------------+
++-----+-----+-----+-----+
+| ENG | DEU | JPN | SPA |
++-----+-----+-----+-----+
+|  26 |  19 |  3  |  1  |
++-----+-----+-----+-----+

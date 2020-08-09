@@ -1,0 +1,59 @@
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                      Name                     |     Rarity    | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  1  | Black Luster Soldier - Envoy of the Beginning |     Ultra     | Unl |  IOC-025   |  ENG  |    41.35    |    224.77    |    13.99    |  166.77  |  115.59  |  56.87   |
+|  2  |            Caius the Shadow Monarch           |    Ultimate   | Unl | TU03-EN000 |  ENG  |    54.96    |    80.99     |    48.74    |  22.95   |  31.36   |  -88.17  |
+|  1  |                   Tragoedia                   |    Ultimate   | Unl | TU04-EN000 |  SPA  |    36.35    |     59.4     |     24.0    |   4.6    |   5.39   |  -39.09  |
+|  2  |                 Effect Veiler                 |    Ultimate   | 1st | DREV-EN002 |  ENG  |     7.5     |    180.0     |     2.98    |  20.19   |  -48.35  |  -88.75  |
+|  2  |                    Maxx "C"                   |    Ultimate   | Unl | AP04-EN002 |  SPA  |    390.82   |    500.0     |    250.0    |  28.17   |  124.06  |  144.69  |
+|  2  |              Thunder King Rai-oh              |    Ultimate   | Unl | TU08-EN000 |  ENG  |    73.78    |   1002.06    |     65.0    |  16.23   |  102.58  |  90.89   |
+|  3  |         Tour Guide From the Underworld        |    Ultimate   | Unl | AP06-EN001 |  ITA  |    198.52   |    269.69    |    185.99   |  56.98   |  173.71  |  127.11  |
+|  1  |                     Sangan                    |     Super     | Unl | RP01-EN036 |  ENG  |    50.07    |    66.66     |    35.99    |   5.06   |   1.44   |  85.38   |
+|  1  |                 Debris Dragon                 |    Ultimate   | Unl | AP01-EN002 |  ENG  |    43.27    |    99.99     |    25.99    |  93.43   |  61.03   |  97.49   |
+|  1  |                   Dandylion                   |    Ultimate   | Unl | AP04-EN001 |  ENG  |    78.74    |    99.99     |     55.0    |  192.46  |  183.92  |  138.58  |
+|  1  |                  Glow-Up Bulb                 |    Ultimate   | 1st | STBL-EN018 |  ITA  |    35.07    |    199.95    |     9.25    |  42.97   |  316.51  |  -11.95  |
+|  1  |                Lonefire Blossom               |     Super     | Unl | CP07-EN005 |  ENG  |    73.17    |    199.95    |    58.95    |  10.15   |   7.81   |  21.52   |
+|  3  |                  Reborn Tengu                 |     Ultra     | Lim | EXVC-ENSP1 |  ITA  |     7.18    |     26.6     |     2.94    |   0.56   |  -11.47  |  -14.93  |
+|  1  |                Night Assailant                |     Super     | Unl | CP01-EN005 |  ITA  |    162.31   |    502.07    |    124.99   |  -4.04   |   3.05   |   2.84   |
+|  1  |                     Spore                     |     Super     | Lim | GENF-ENSE2 |  ENG  |    12.06    |    35.18     |     1.19    |  224.19  |  233.15  |  68.44   |
+|  1  |                  One For One                  |     Super     | Lim | DPCT-ENY08 |  ENG  |     9.39    |    31.47     |     6.99    |   6.95   |  14.65   |  -5.82   |
+|  1  |                 Foolish Burial                |     Super     | Unl | TU02-EN004 |  ENG  |    96.81    |    419.99    |    46.95    |  25.03   |   41.8   |  36.72   |
+|  2  |                 Pot of Avarice                |    Ultimate   | 1st | EEN-EN037  |  DEU  |     9.74    |    152.07    |     6.99    |  94.41   |  294.33  |  270.34  |
+|  1  |                   Scapegoat                   |     Ultra     | Unl | RP01-EN090 |  ITA  |    326.12   |    999.99    |    244.27   |  -26.25  |  -32.65  |  -35.04  |
+|  1  |                  Book of Moon                 |     Ultra     | Unl | TU07-EN001 |  ENG  |    18.42    |    51.98     |    14.37    |  -30.04  |  -9.22   |  -33.33  |
+|  2  |                Enemy Controller               |     Ultra     | Unl |  AST-037   |  ENG  |     7.24    |    32.58     |     2.56    |   4.47   |  -17.73  |   7.58   |
+|  1  |                 Monster Reborn                |     Super     | Unl | RP01-EN016 |  ITA  |    30.72    |    54.99     |    16.87    |  -3.37   |   3.26   |  -18.67  |
+|  2  |             Mystical Space Typhoon            |    Ultimate   | Unl | AP08-EN002 |  ENG  |    86.52    |    101.98    |    69.68    |  39.98   |  56.57   |   30.2   |
+|  2  |                 Solemn Warning                |    Ultimate   | 1st | DREV-EN077 |  ENG  |     9.41    |    169.99    |     3.8     |  -29.83  |  67.74   |  -72.45  |
+|  1  |                 Trap Dustshoot                |     Super     | Unl | CP05-EN005 |  ITA  |    80.77    |    98.99     |    49.99    |  13.09   |   7.92   |  -5.31   |
+|  1  |                  Mirror Force                 |     Ultra     | Unl |  MRD-138   |  ENG  |     7.19    |    356.04    |     4.34    |  22.49   |   0.56   |  -20.11  |
+|  1  |      Trishula, Dragon of the Ice Barrier      | Duel Terminal | DuT | DT04-EN092 |  ENG  |    618.58   |    500.0     |    166.98   |  157.54  |  183.95  |  388.03  |
+|  1  |                  Scrap Dragon                 |    Ultimate   | 1st | DREV-EN043 |  DEU  |     2.95    |    997.07    |     2.02    |  13.03   |  10.07   |  -74.74  |
+|  1  |                Stardust Dragon                |    Ultimate   | Unl | TDGS-EN040 |  ENG  |     7.41    |    214.99    |     4.89    |   4.51   |  -51.28  |  -76.26  |
+|  1  |               Black Rose Dragon               |    Ultimate   | Unl | CSOC-EN039 |  ITA  |     4.4     |    149.95    |     2.38    |  28.28   |  18.92   |  -77.1   |
+|  1  |              Ancient Fairy Dragon             |    Ultimate   | Unl | ANPR-EN040 |  ITA  |     4.79    |    106.86    |     2.64    |  -25.16  |  -34.38  |  -67.17  |
+|  1  |                 Orient Dragon                 |     Secret    | 1st | GENF-EN085 |  DEU  |     3.2     |    10.98     |     1.66    |  48.15   |  51.66   |  49.53   |
+|  1  |            Ally of Justice Catastor           |    Ultimate   | Unl | TU07-EN000 |  DEU  |    26.84    |    249.95    |    17.59    |  25.24   |  10.05   |  -14.33  |
+|  1  |              T.G. Hyper Librarian             |     Ultra     | Lim | JUMP-EN051 |  ENG  |    11.67    |    19.04     |     7.82    |   -2.1   |  244.25  |  89.45   |
+|  1  |                   Armory Arm                  |     Ultra     | 1st | DP08-EN016 |  ITA  |     6.09    |    25.88     |     1.84    |  16.67   |  27.94   |  73.01   |
+|  2  |                Formula Synchron               |      Rare     | Lim | STBL-EN041 |  DEU  |     8.24    |    14.73     |     4.82    |  67.48   |  210.94  |  183.16  |
+|  1  |          Number 17: Leviathan Dragon          |    Ultimate   | 1st | GENF-EN039 |  ITA  |     8.77    |    27.61     |     3.98    |  76.81   |   66.1   |  122.59  |
+|  1  |             Leviair the Sea Dragon            |    Ultimate   | Unl | GENF-EN043 |  ENG  |    19.53    |    51.06     |     6.65    |  246.28  |  334.0   |  94.33   |
+|  1  |                Steelswarm Roach               |     Secret    | 1st | GENF-EN099 |  SPA  |     7.66    |    26.48     |     3.95    |  60.25   |  52.89   |  81.52   |
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-14
++---------+------+------+
+| Average | High | Low  |
++---------+------+------+
+|   2678  | 8412 | 1599 |
++---------+------+------+
++------+------------+------------+-------------+---------------+-----------------------------------+
+| Rare | Super Rare | Ultra Rare | Secret Rare | Ultimate Rare | Duel Terminal Ultra Parallel Rare |
++------+------------+------------+-------------+---------------+-----------------------------------+
+|  2   |     8      |     11     |      2      |       28      |                 1                 |
++------+------------+------------+-------------+---------------+-----------------------------------+
++-----+-----+-----+-----+
+| ENG | DEU | ITA | SPA |
++-----+-----+-----+-----+
+|  26 |  7  |  15 |  4  |
++-----+-----+-----+-----+

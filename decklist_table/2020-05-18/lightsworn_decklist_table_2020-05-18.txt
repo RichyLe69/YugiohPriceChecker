@@ -1,0 +1,52 @@
++-----+-----------------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                      Name                     |  Rarity  | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  3  |                Judgment Dragon                | Ultimate | Unl | TU01-EN000 |  ENG  |    394.43   |    574.99    |    249.99   |  195.45  |  258.83  |  187.17  |
+|  1  |               Dark Armed Dragon               | Ultimate | Unl | TU06-EN000 |  ENG  |    279.93   |   2499.95    |    149.95   |   3.99   |   86.0   |  137.49  |
+|  2  |                   Tragoedia                   | Ultimate | Unl | TU04-EN000 |  ENG  |     39.4    |     59.4     |     24.0    |   10.3   |  15.41   |  -33.93  |
+|  3  |                     Honest                    |  Ghost   | Unl | LODT-EN001 |  ENG  |    82.23    |    194.94    |     51.9    |  98.53   |  139.53  |  117.83  |
+|  3  |          Lumina, Lightsworn Summoner          |  Super   | Unl | CP08-EN005 |  ENG  |    248.73   |    213.96    |    164.98   |  206.62  |  163.32  |  191.66  |
+|  2  |           Lyla, Lightsworn Sorceress          | Ultimate | Unl | LODT-EN019 |  ENG  |     3.57    |    49.99     |     1.5     |  63.01   |  62.27   |  -64.05  |
+|  1  |            Jain, Lightsworn Paladin           |  Ultra   | 1st | LCGX-EN245 |  ENG  |     1.36    |     4.83     |     0.54    |   7.94   |  -0.73   |  29.52   |
+|  3  |             Wulf, Lightsworn Beast            |  Ultra   | 1st | LCGX-EN248 |  ENG  |     2.16    |     7.63     |     0.99    |  13.09   |   6.93   |  15.51   |
+|  3  |           Celestia, Lightsworn Angel          | Ultimate | Unl | LODT-EN024 |  ENG  |     2.51    |    37.34     |     1.16    |   46.2   |  36.61   |  -39.32  |
+|  3  |             Ehren, Lightsworn Monk            |  Secret  | Unl | LODT-EN082 |  ENG  |     10.8    |    199.95    |     5.74    |  43.62   |  43.62   |  30.59   |
+|  1  |           Garoth, Lightsworn Warrior          |  Ultra   | 1st | LCGX-EN246 |  ENG  |     1.3     |     8.55     |     0.54    |   5.69   |  -17.72  |  -6.47   |
+|  1  |            Ryko, Lightsworn Hunter            |  Super   | Unl | LODT-EN022 |  ENG  |     3.24    |    22.94     |     1.48    |   60.4   |   10.2   |  77.05   |
+|  1  | Black Luster Soldier - Envoy of the Beginning |  Secret  | Lim | MC2-EN004  |  ENG  |    25.63    |     87.1     |    16.33    |   6.93   |  14.42   |  -1.23   |
+|  1  |         Gorz the Emissary of Darkness         |  Secret  | Lim | DLG1-EN000 |  ENG  |     2.56    |     9.8      |     1.08    |  54.22   |  29.29   |  -1.54   |
+|  1  |                  Glow-Up Bulb                 | Ultimate | 1st | STBL-EN018 |  ENG  |    36.37    |    199.95    |     9.14    |  53.29   |  79.11   |  -7.72   |
+|  1  |             Plaguespreader Zombie             | Ultimate | Unl | CSOC-EN031 |  ENG  |     3.69    |    299.95    |     1.9     |  -62.84  |  -5.63   |  -63.93  |
+|  3  |                  Necro Gardna                 | Ultimate | Unl | TAEV-EN012 |  ENG  |     1.05    |    15.75     |     0.92    |  -2.78   |   -8.7   |  -80.98  |
+|  3  |          Charge of the Light Brigade          |  Secret  | Unl | TDGS-EN089 |  ENG  |    66.09    |    499.95    |    19.99    |   91.4   |  104.99  |  248.58  |
+|  3  |                 Solar Recharge                | Ultimate | Unl | LODT-EN052 |  ENG  |     3.98    |    199.0     |     1.78    |  75.33   |   73.8   |  -81.06  |
+|  1  |             Monster Reincarnation             | Ultimate | Unl | RDS-EN045  |  ENG  |     1.65    |    62.19     |     1.2     |   6.45   |  -5.71   |  -82.45  |
+|  1  |               Allure of Darkness              | Ultimate | Unl | PTDN-EN084 |  ENG  |    24.13    |    199.95    |     19.0    |  23.62   |  33.02   |  -50.21  |
+|  1  |      Trishula, Dragon of the Ice Barrier      | Ultimate | Unl | AP08-EN001 |  ENG  |    98.26    |    155.0     |    92.99    |  -16.19  |  116.62  |  66.15   |
+|  1  |                Stardust Dragon                | Ultimate | Unl | TDGS-EN040 |  ENG  |     7.55    |    214.99    |     4.98    |   4.28   |  -52.72  |  -79.26  |
+|  1  |               Black Rose Dragon               | Ultimate | Unl | CSOC-EN039 |  ENG  |     4.48    |    134.99    |     2.38    |  31.38   |  21.41   |  -76.85  |
+|  1  |                 Tornado Dragon                |  Secret  | 1st | MACR-EN081 |  ENG  |     5.24    |     25.4     |     2.27    |  16.19   |  23.29   |  -47.49  |
+|  1  |        Minerva, The Exalted Lightsworn        |  Secret  | 1st | BLLR-EN044 |  ENG  |    10.07    |    40.56     |     6.8     |  18.75   |  96.68   |  115.63  |
+|  1  |          Number 17: Leviathan Dragon          | Ultimate | Unl | GENF-EN039 |  ENG  |     6.84    |    27.38     |     4.19    |  38.18   |  27.85   |  74.05   |
+|  1  |       Blaster, Dragon Ruler of Infernos       |  Secret  | Lim | CT10-EN002 |  ENG  |     4.85    |     9.99     |     3.15    |   6.37   |  -4.16   |   4.54   |
+|  1  |       Tidal, Dragon Ruler of Waterfalls       |  Secret  | Lim | CT10-EN001 |  ENG  |     4.79    |    33.31     |     3.1     |  -10.13  |  -5.15   |  -21.09  |
+|  1  |        Tempest, Dragon Ruler of Storms        |  Secret  | Lim | CT10-EN004 |  ENG  |     4.75    |    32.42     |     3.27    |  -4.62   |  -20.57  |  29.78   |
+|  1  |        Redox, Dragon Ruler of Boulders        |  Secret  | Lim | CT10-EN003 |  ENG  |     3.45    |    32.44     |     1.98    |   8.15   |  -30.3   |   9.87   |
+|  3  |                 Eclipse Wyvern                |  Super   | Unl | SDDC-EN003 |  ENG  |     1.18    |     7.49     |     0.85    |   2.61   |  -28.92  |  -40.7   |
++-----+-----------------------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-18
++---------+------+-----+
+| Average | High | Low |
++---------+------+-----+
+|   1386  | 6162 | 850 |
++---------+------+-----+
++------------+------------+-------------+---------------+------------+
+| Super Rare | Ultra Rare | Secret Rare | Ultimate Rare | Ghost Rare |
++------------+------------+-------------+---------------+------------+
+|     7      |     5      |      14     |       25      |     3      |
++------------+------------+-------------+---------------+------------+
++-----+
+| ENG |
++-----+
+|  54 |
++-----+

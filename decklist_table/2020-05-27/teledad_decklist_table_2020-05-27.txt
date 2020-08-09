@@ -1,0 +1,73 @@
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |              Name             |  Rarity  | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  2  |       Dark Armed Dragon       | Ultimate | Unl | TU06-EN000 |  ENG  |    286.92   |   2499.95    |    176.5    |  -5.91   |  90.87   |  138.38  |
+|  1  |    Caius the Shadow Monarch   | Ultimate | Unl | TU03-EN000 |  ENG  |    70.18    |    91.49     |    48.74    |  55.99   |  69.27   |   8.25   |
+|  3  |    Destiny HERO - Malicious   |  Ultra   | 1st | DP05-EN011 |  ITA  |    15.62    |     30.0     |     3.83    |  -11.0   |  -0.89   |  91.66   |
+|  1  | Gorz the Emissary of Darkness |  Secret  | Lim | RP02-EN000 |  ENG  |     5.43    |    25.61     |     2.97    |   -4.9   |   -6.7   |  -26.62  |
+|  1  |          Dark Grepher         |  Secret  | 1st | PTDN-EN000 |  ENG  |    30.15    |    99.99     |    17.99    |  -14.27  |  -6.19   |   4.61   |
+|  1  |  Destiny HERO - Diamond Dude  | Ultimate | 1st | EOJ-EN003  |  DEU  |     1.03    |    25.42     |     0.88    |  -0.96   |  -8.85   |  -93.75  |
+|  1  |     Plaguespreader Zombie     | Ultimate | 1st | CSOC-EN031 |  ITA  |     3.63    |    299.95    |     1.77    |  45.78   |  -7.87   |  -63.63  |
+|  1  |           D.D. Crow           | Ultimate | 1st | STON-EN024 |  ENG  |     3.96    |   1049.99    |     2.49    |   52.9   |  71.43   |  -86.77  |
+|  1  |  Breaker the Magical Warrior  |  Ultra   | Unl |  MFC-071   |  ENG  |    16.55    |    97.75     |     3.78    |  130.5   |  16.22   |  -25.08  |
+|  1  |             Sangan            |  Super   | Unl | RP01-EN036 |  ENG  |    40.24    |    66.84     |    35.99    |  -31.2   |  -15.83  |  53.71   |
+|  1  |     Elemental Hero Stratos    |  Ultra   | Lim | JUMP-EN012 |  ENG  |    13.55    |    33.03     |     4.39    |   19.7   |  35.23   |  49.56   |
+|  3  |            Krebons            |  Super   | Unl | TU01-EN003 |  DEU  |    14.72    |     49.9     |     9.41    |   1.1    |  -2.65   |  46.32   |
+|  3  |       Allure of Darkness      | Ultimate | 1st | PTDN-EN084 |  ITA  |    26.33    |    252.07    |     14.0    |  21.06   |  42.79   |  -38.31  |
+|  3  |       Emergency Teleport      | Ultimate | 1st | TDGS-EN053 |  DEU  |     7.21    |    87.07     |     5.27    |  -40.12  |  88.74   |  -56.01  |
+|  3  |          Destiny Draw         |  Ultra   | 1st | DP05-EN020 |  ITA  |     2.83    |    33.23     |     1.51    |   0.71   |  -20.51  |  -8.41   |
+|  1  |        Lightning Vortex       | Ultimate | 1st | FET-EN040  |  FRE  |     5.28    |    345.9     |     2.6     |   2.52   |   5.6    |  -78.94  |
+|  1  |         Brain Control         | Ultimate | 1st | TLM-EN038  |  DEU  |     1.3     |    88.99     |     1.03    |  -2.26   |  -16.67  |  -85.16  |
+|  1  |     Mystical Space Typhoon    |  Ultra   | Unl |  MRL-047   |  ENG  |     4.8     |    200.0     |     1.5     |  -9.94   |  -21.05  |  -30.33  |
+|  1  |         Monster Reborn        |  Ultra   | Unl |  LOB-118   |  ENG  |     9.38    |   1695.75    |     3.94    |  86.48   |  68.71   |  -23.74  |
+|  2  |   Reinforcement of the Army   |  Super   | Unl |  LOD-028   |  ENG  |     6.09    |    59.99     |     1.73    |  115.96  |  165.94  |  45.35   |
+|  1  |        Crush Card Virus       | Ultimate | 1st | DPKB-EN039 |  ENG  |    43.42    |    107.99    |     23.9    |  124.51  |  136.11  |  166.71  |
+|  2  |    Phoenix Wing Wind Blast    | Ultimate | Unl | FET-EN053  |  ENG  |     1.29    |    63.38     |     0.97    |  -2.27   |  -19.88  |  -85.29  |
+|  3  |        Solemn Judgment        |  Ultra   | Unl |  MRD-127   |  ENG  |    11.86    |    402.06    |     5.99    |  -6.02   |  -0.67   |  172.02  |
+|  1  |       Torrential Tribute      |  Ultra   | Unl |  LON-025   |  ENG  |     4.72    |    290.89    |     2.54    |  34.47   |  -0.63   |  -14.34  |
+|  2  |        Stardust Dragon        | Ultimate | Unl | TDGS-EN040 |  ENG  |     7.71    |    149.99    |     4.77    |   5.62   |  -50.51  |  -73.69  |
+|  2  |      Red Dragon Archfiend     | Ultimate | Unl | TDGS-EN041 |  ENG  |    10.31    |    199.99    |     3.25    |  -11.04  |  -11.73  |  -44.36  |
+|  2  |       Black Rose Dragon       | Ultimate | Unl | CSOC-EN039 |  ENG  |    15.53    |    129.95    |     2.77    |  336.24  |  333.8   |  -21.01  |
+|  2  |        Colossal Fighter       | Ultimate | Unl | TU05-EN000 |  ENG  |    28.66    |    799.95    |     15.1    |  25.15   |  31.71   |  20.12   |
+|  2  |    Thought Ruler Archfiend    | Ultimate | 1st | TDGS-EN044 |  FRE  |     4.83    |     74.9     |     2.78    |   6.15   |   5.46   |  -7.65   |
+|  2  |         Goyo Guardian         | Ultimate | 1st | TDGS-EN042 |  ENG  |     3.36    |     51.0     |     1.99    |  17.48   |  -10.4   |  -23.81  |
+|  1  |      Revived King Ha Des      | Ultimate | 1st | CSOC-EN044 |  ITA  |     5.98    |     25.0     |     2.97    |   12.2   |  -6.85   |  15.67   |
+|  1  |       Doomkaiser Dragon       | Ultimate | 1st | CSOC-EN043 |  FRE  |     9.26    |    99.95     |     5.1     |  18.72   |  12.38   |   7.67   |
+|  1  |    Ally of Justice Catastor   | Ultimate | Unl | TU07-EN000 |  ENG  |    49.41    |    249.95    |    37.05    |  127.7   |  103.58  |  64.26   |
+|  1  |      Ancient Fairy Dragon     | Ultimate | Unl | ANPR-EN040 |  ENG  |     4.8     |    106.53    |     3.53    |  -27.49  |  -33.7   |  -64.44  |
+|  1  |       Power Tool Dragon       | Ultimate | 1st | RGBT-EN042 |  ENG  |     8.8     |    64.43     |     4.77    |  24.12   |   3.17   |  -46.83  |
+|  1  |      Shooting Star Dragon     | Ultimate | 1st | STBL-EN040 |  ENG  |    198.38   |    402.06    |    34.99    |  555.15  |  600.99  |  493.6   |
+|  1  |        Red Nova Dragon        | Ultimate | 1st | STBL-EN042 |  ENG  |    29.55    |   1008.98    |     4.96    |  81.29   |  128.36  |  52.79   |
++-----+-------------------------------+----------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-27
++---------+-------+-----+
+| Average |  High | Low |
++---------+-------+-----+
+|   1003  | 11360 | 498 |
++---------+-------+-----+
++------------+------------+-------------+---------------+
+| Super Rare | Ultra Rare | Secret Rare | Ultimate Rare |
++------------+------------+-------------+---------------+
+|     6      |     14     |      2      |       36      |
++------------+------------+-------------+---------------+
++-----+-----+-----+-----+
+| ENG | DEU | ITA | FRE |
++-----+-----+-----+-----+
+|  35 |  8  |  11 |  4  |
++-----+-----+-----+-----+
++------------+-----------------------------+---------------------------------+-------------+
+|    Set     |             Name            |           Foreign Name          | Foreign Set |
++------------+-----------------------------+---------------------------------+-------------+
+| DP05-EN011 |   Destiny HERO - Malicious  |   Malicious - EROE del Destino  |  DP05-IT011 |
+| EOJ-EN003  | Destiny HERO - Diamond Dude |  Schicksals-HELD - Diamond Dude |  EOJ-DE003  |
+| CSOC-EN031 |    Plaguespreader Zombie    |          Zombie Untore          |  CSOC-IT031 |
+| TU01-EN003 |           Krebons           |             Krebons             |  TU01-DE003 |
+| PTDN-EN084 |      Allure of Darkness     |      Fascino dell'Oscurità      |  PTDN-IT084 |
+| TDGS-EN053 |      Emergency Teleport     |         Notfallteleport         |  TDGS-DE053 |
+| DP05-EN020 |         Destiny Draw        |       Pescata del Destino       |  DP05-IT020 |
+| FET-EN040  |       Lightning Vortex      |        Vortex Foudroyant        |  FET-FR040  |
+| TLM-EN038  |        Brain Control        |         Gehirnkontrolle         |  TLM-DE038  |
+| TDGS-EN044 |   Thought Ruler Archfiend   |    Archdémon du Monde Mental    |  TDGS-FR044 |
+| CSOC-EN044 |     Revived King Ha Des     |         Re Ha Des Rinato        |  CSOC-IT044 |
+| CSOC-EN043 |      Doomkaiser Dragon      | Empereur Dragon de la Damnation |  CSOC-FR043 |
++------------+-----------------------------+---------------------------------+-------------+

@@ -1,0 +1,111 @@
++-----+-----------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                   Name                  |    Rarity   | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  1  |           Elemental Hero Neos           |    Secret   | Lim | CT03-EN001 |  ENG  |    26.29    |    503.98    |    23.99    |  238.35  |  254.79  |  219.44  |
+|  1  |         Elemental Hero Sparkman         |    Secret   | Lim | EHC2-EN001 |  ENG  |    159.23   |    43.75     |    33.99    |  398.19  |  439.18  |  506.78  |
+|  1  |          Elemental Hero Clayman         |    Secret   | Lim | EHC2-EN002 |  ENG  |    67.07    |    67.07     |    67.07    |  -47.52  |  40.35   |  76.52   |
+|  1  |         Elemental HERO Bubbleman        |   Ultimate  | 1st | CRV-EN014  |  DEU  |     1.48    |    74.86     |     1.01    |  -83.98  |  -24.49  |  -93.81  |
+|  1  |        Elemental Hero Necroshade        |    Ultra    | 1st | YSDJ-EN000 |  ENG  |     3.34    |    11.95     |     1.18    |  34.68   |  77.66   |  -5.38   |
+|  1  |         Elemental Hero Wildheart        |     None    | Lim | GSE-EN001  |  ENG  |     3.63    |     29.6     |     1.65    |  -18.06  |  -2.68   |  -12.74  |
+|  1  |         Elemental HERO Bladedge         |   Ultimate  | 1st | EEN-EN007  |  ITA  |     1.27    |    134.99    |     0.98    |   4.96   |   8.55   |  -93.86  |
+|  1  |       Neo-Spacian Air Hummingbird       |   Ultimate  | 1st | STON-EN004 |  ENG  |     1.82    |    77.82     |     1.34    |   5.2    |  -4.71   |  -89.71  |
+|  1  |          Neo-Spacian Grand Mole         |   Ultimate  | 1st | STON-EN005 |  DEU  |     1.12    |    36.98     |     0.97    |   0.0    |  -92.96  |  -92.3   |
+|  1  |         Neo-Spacian Aqua Dolphin        |   Ultimate  | 1st | POTD-EN003 |  DEU  |     2.35    |    182.07    |     1.63    |  -4.86   |  -37.5   |  -89.02  |
+|  1  |         Neo-Spacian Flare Scarab        |   Ultimate  | 1st | POTD-EN004 |  DEU  |     1.42    |    39.58     |     1.03    |  -7.19   |  -30.39  |  -92.03  |
+|  1  |         Neo-Spacian Dark Panther        |   Ultimate  | 1st | POTD-EN005 |  DEU  |     2.95    |     57.0     |     1.68    |   43.2   |  16.14   |  -82.37  |
+|  1  |              Wroughtweiler              |   Ultimate  | 1st | CRV-EN012  |  DEU  |     1.47    |    27.95     |     1.07    |  -72.05  |  -30.66  |  -56.12  |
+|  1  |              Winged Kuriboh             |   Ultimate  | 1st | TLM-EN005  |  DEU  |     2.33    |    224.03    |     1.72    |  -10.38  |  -20.75  |  -90.92  |
+|  1  |           Winged Kuriboh LV10           |   Ultimate  | 1st | CRV-EN005  |  DEU  |     6.0     |    192.99    |     4.07    |  -3.38   |  -17.13  |  -82.35  |
+|  1  |              Rainbow Dragon             |    Ghost    | 1st | TAEV-EN006 |  DEU  |    350.93   |    825.0     |    109.29   |  159.07  |  142.3   |  261.9   |
+|  1  |                Dandylion                |    Secret   | 1st | LCGX-EN042 |  ENG  |     2.32    |     6.29     |     1.53    |  18.46   |  -4.15   |  -23.76  |
+|  1  |               Pot of Greed              |   Ultimate  | 1st | DPKB-EN029 |  ITA  |    73.27    |    99.99     |     50.0    |  50.95   |   45.0   |  158.72  |
+|  1  |             Graceful Charity            |    Super    | Unl |  SDP-040   |  ENG  |     4.29    |    59.99     |     1.98    |  35.76   |  22.22   |  41.58   |
+|  1  |                Fifth Hope               |   Ultimate  | 1st | TAEV-EN045 |  DEU  |     2.79    |    19.95     |     1.78    |   9.84   |  -15.45  |  -60.37  |
+|  1  |               Hero Flash!!              |   Ultimate  | 1st | EOJ-EN042  |  ENG  |     1.14    |     44.0     |     0.96    |   1.8    |  -75.54  |  -73.96  |
+|  1  |             H - Heated Heart            |    Secret   | 1st | RYMP-EN023 |  ENG  |     1.15    |     5.05     |     0.65    |   1.79   |   0.88   |  -47.22  |
+|  1  |            E - Emergency Call           |    Secret   | 1st | RYMP-EN024 |  ENG  |    24.58    |    54.53     |     20.0    |  23.46   |  41.35   |  116.75  |
+|  1  |          R - Righteous Justice          |    Secret   | 1st | RYMP-EN025 |  ENG  |     1.2     |     9.95     |     0.98    |   9.09   |   7.14   |  10.09   |
+|  1  |               O - Oversoul              |    Secret   | 1st | RYMP-EN026 |  ENG  |     1.68    |     7.07     |     1.16    |  15.07   |   5.0    |  -28.21  |
+|  1  |                Neo Space                |   Ultimate  | 1st | POTD-EN046 |  DEU  |     1.83    |    399.95    |     1.58    |  -3.17   |  -70.67  |  -86.37  |
+|  1  |                Skyscraper               |   Ultimate  | 1st | CRV-EN048  |  DEU  |     3.87    |     80.0     |     2.49    |  12.83   |  17.99   |  -63.18  |
+|  1  |         Skyscraper 2 - Hero City        |   Ultimate  | 1st | STON-EN048 |  DEU  |     2.8     |    39.64     |     1.75    |  -0.71   |   4.87   |  -66.1   |
+|  2  |              Polymerization             |    Super    | Unl |  LOB-059   |  ENG  |     4.65    |    1195.0    |     2.27    |  29.17   |  32.86   |  -3.93   |
+|  1  |               Fusion Sage               |    Super    | Unl | TP6-EN003  |  ENG  |    13.91    |   1249.95    |     7.75    |  -42.02  |  15.05   |  33.62   |
+|  1  |              Miracle Fusion             |   Ultimate  | 1st | CRV-EN039  |  ENG  |     1.31    |    130.12    |     1.0     |  -7.75   |  -34.5   |  -88.8   |
+|  1  |            Transcendent Wings           |   Ultimate  | 1st | CRV-EN045  |  DEU  |     1.26    |    120.0     |     1.1     |   0.0    |  -3.82   |  -86.76  |
+|  1  |      The Flute of Summoning Kuriboh     |    Ultra    | 1st | LCGX-EN087 |  ENG  |     2.31    |    24.27     |     1.43    |  -28.92  |  -29.36  |  -39.69  |
+|  1  |               Mirror Gate               |   Ultimate  | 1st | TAEV-EN063 |  DEU  |     1.13    |     8.08     |     0.89    |   3.7    |   0.0    |  -36.0   |
+|  1  |               Hero Signal               |   Ultimate  | 1st | TLM-EN049  |  DEU  |     1.17    |    22.48     |     0.92    |   1.74   |   4.46   |  -79.07  |
+|  1  |               Hero Barrier              |   Ultimate  | 1st | EEN-EN049  |  DEU  |     1.22    |    29.98     |     1.07    |   -2.4   |  -0.81   |  -61.51  |
+|  1  |              Negate Attack              | Pris Secret | Unl |  TSC-003   |  ENG  |     7.63    |    16.06     |     3.62    |  61.65   |  146.93  |   8.07   |
+|  2  |       Elemental Hero Flame Wingman      |   Ultimate  | 1st | TLM-EN035  |  ENG  |    14.48    |    130.0     |     7.98    |  11.99   |  106.56  |  -57.2   |
+|  1  |       Elemental HERO Thunder Giant      |   Ultimate  | 1st | TLM-EN036  |  ITA  |     4.97    |    279.95    |     2.25    |   3.54   |  -91.27  |  -88.14  |
+|  1  |      Elemental HERO Rampart Blaster     |   Ultimate  | 1st | EEN-EN033  |  DEU  |     4.25    |    163.99    |     2.14    |  14.25   |  13.94   |   5.99   |
+|  1  |          Elemental HERO Tempest         |   Ultimate  | 1st | EEN-EN034  |  DEU  |     9.06    |    17.98     |     4.76    |  24.28   |  -11.52  |  -51.6   |
+|  1  |        Elemental Hero Darkbright        |   Ultimate  | Unl | TAEV-EN042 |  ENG  |     3.08    |    199.95    |     1.75    |  16.67   |  -7.51   |  -94.06  |
+|  1  |         Elemental HERO Wildedge         |   Ultimate  | Unl | EEN-EN035  |  DEU  |    104.23   |    699.99    |     6.99    |  2635.7  |  -5.88   |  112.54  |
+|  1  |       Elemental HERO Wild Wingman       |   Ultimate  | 1st | EOJ-EN035  |  DEU  |     2.34    |    115.12    |     1.28    |  18.18   |   7.83   |   17.0   |
+|  1  |   Elemental HERO Shining Flare Wingman  |   Ultimate  | 1st | EEN-EN036  |  DEU  |     8.38    |    812.06    |     5.43    |  -1.06   |  31.55   |  -84.97  |
+|  1  |     Elemental HERO Phoenix Enforcer     |   Ultimate  | 1st | EOJ-EN032  |  ITA  |     7.24    |    112.98    |     4.18    |  40.58   |  -69.02  |  -81.06  |
+|  1  | Elemental HERO Shining Phoenix Enforcer |   Ultimate  | 1st | EOJ-EN033  |  ITA  |     5.86    |    353.95    |     2.78    |  -3.93   |  -0.34   |  -58.53  |
+|  1  |         Elemental HERO Aqua Neos        |   Ultimate  | 1st | POTD-EN031 |  ENG  |     3.86    |    77.07     |     2.87    |  -27.44  |  -30.95  |  -63.48  |
+|  1  |        Elemental HERO Flare Neos        |   Ultimate  | 1st | POTD-EN032 |  DEU  |     7.43    |    299.99    |     5.0     |  47.13   |  53.51   |  -65.65  |
+|  1  |         Elemental HERO Dark Neos        |   Ultimate  | 1st | POTD-EN033 |  DEU  |     4.69    |    220.67    |     3.73    |  -0.64   |  -94.78  |  -93.8   |
+|  1  |         Elemental HERO Air Neos         |   Ultimate  | 1st | STON-EN034 |  DEU  |    151.26   |    660.23    |    64.92    |  213.49  |  158.03  |  48.15   |
+|  1  |        Elemental HERO Grand Neos        |   Ultimate  | 1st | STON-EN035 |  DEU  |    51.02    |    159.99    |    23.98    |  29.95   |  -8.12   |  410.2   |
+|  1  |         Elemental HERO Glow Neos        |   Ultimate  | 1st | STON-EN036 |  ITA  |    10.97    |    152.41    |     5.18    |  62.04   |  -68.38  |  -70.97  |
+|  1  |        Elemental HERO Neos Knight       |   Ultimate  | 1st | EXVC-EN093 |  DEU  |     4.93    |    71.24     |     2.03    |  -47.72  |  -76.66  |  -81.69  |
++-----+-----------------------------------------+-------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-05-10
++---------+-------+-----+
+| Average |  High | Low |
++---------+-------+-----+
+|   1186  | 10680 | 505 |
++---------+-------+-----+
++------------+------------+-------------+-----------------------+---------------+------------+
+| Super Rare | Ultra Rare | Secret Rare | Prismatic Secret Rare | Ultimate Rare | Ghost Rare |
++------------+------------+-------------+-----------------------+---------------+------------+
+|     4      |     2      |      8      |           1           |       39      |     1      |
++------------+------------+-------------+-----------------------+---------------+------------+
++-----+-----+-----+
+| ENG | DEU | ITA |
++-----+-----+-----+
+|  23 |  27 |  6  |
++-----+-----+-----+
++------------+-----------------------------------------+---------------------------------------------+-------------+
+|    Set     |                   Name                  |                 Foreign Name                | Foreign Set |
++------------+-----------------------------------------+---------------------------------------------+-------------+
+| CRV-EN014  |         Elemental HERO Bubbleman        |           Elementar-HELD Bubbleman          |  CRV-DE014  |
+| EEN-EN007  |         Elemental HERO Bladedge         |           Bladedge EROE Elementale          |  EEN-IT007  |
+| STON-EN005 |          Neo-Spacian Grand Mole         |           Neo-Weltraum Grand Mole           |  STON-DE005 |
+| POTD-EN003 |         Neo-Spacian Aqua Dolphin        |          Neo-Weltraum Aqua Dolphin          |  POTD-DE003 |
+| POTD-EN004 |         Neo-Spacian Flare Scarab        |          Neo-Weltraum Flare Scarab          |  POTD-DE004 |
+| POTD-EN005 |         Neo-Spacian Dark Panther        |          Neo-Weltraum Dark Panther          |  POTD-DE005 |
+| CRV-EN012  |              Wroughtweiler              |                Wroughtweiler                |  CRV-DE012  |
+| TLM-EN005  |              Winged Kuriboh             |             Geflügelter Kuriboh             |  TLM-DE005  |
+| CRV-EN005  |           Winged Kuriboh LV10           |           Geflügelter Kuriboh LV10          |  CRV-DE005  |
+| TAEV-EN006 |              Rainbow Dragon             |               Regenbogendrache              |  TAEV-DE006 |
+| DPKB-EN029 |               Pot of Greed              |             Anfora dell'Avidità             |  DPKB-IT029 |
+| TAEV-EN045 |                Fifth Hope               |               Fünfte Hoffnung               |  TAEV-DE045 |
+| POTD-EN046 |                Neo Space                |                 Neo-Weltraum                |  POTD-DE046 |
+| CRV-EN048  |                Skyscraper               |                Wolkenkratzer                |  CRV-DE048  |
+| STON-EN048 |         Skyscraper 2 - Hero City        |        Wolkenkratzer 2 - Heldenstadt        |  STON-DE048 |
+| CRV-EN045  |            Transcendent Wings           |             Transzendente Flügel            |  CRV-DE045  |
+| TAEV-EN063 |               Mirror Gate               |                  Spiegeltor                 |  TAEV-DE063 |
+| TLM-EN049  |               Hero Signal               |                 Heldensignal                |  TLM-DE049  |
+| EEN-EN049  |               Hero Barrier              |                Heldenbarriere               |  EEN-DE049  |
+| TLM-EN036  |       Elemental HERO Thunder Giant      |      Gigante del Tuono EROE Elementale      |  TLM-IT036  |
+| EEN-EN033  |      Elemental HERO Rampart Blaster     |        Elementar-HELD Rampart Blaster       |  EEN-DE033  |
+| EEN-EN034  |          Elemental HERO Tempest         |            Elementar-HELD Tempest           |  EEN-DE034  |
+| EEN-EN035  |         Elemental HERO Wildedge         |           Elementar-HELD Wildedge           |  EEN-DE035  |
+| EOJ-EN035  |       Elemental HERO Wild Wingman       |         Elementar-HELD Wild Wingman         |  EOJ-DE035  |
+| EEN-EN036  |   Elemental HERO Shining Flare Wingman  |     Elementar-HELD Glänzender Flügelmann    |  EEN-DE036  |
+| EOJ-EN032  |     Elemental HERO Phoenix Enforcer     |     Fenice Sorvegliante EROE Elementale     |  EOJ-IT032  |
+| EOJ-EN033  | Elemental HERO Shining Phoenix Enforcer | Lucente Fenice Sorvegliante EROE Elementale |  EOJ-IT033  |
+| POTD-EN032 |        Elemental HERO Flare Neos        |          Elementar-HELD Flare Neos          |  POTD-DE032 |
+| POTD-EN033 |         Elemental HERO Dark Neos        |           Elementar-HELD Dark Neos          |  POTD-DE033 |
+| STON-EN034 |         Elemental HERO Air Neos         |           Elementar-HELD Air Neos           |  STON-DE034 |
+| STON-EN035 |        Elemental HERO Grand Neos        |          Elementar-HELD Grand Neos          |  STON-DE035 |
+| STON-EN036 |         Elemental HERO Glow Neos        |        Neos Luminoso EROE Elementale        |  STON-IT036 |
+| EXVC-EN093 |        Elemental HERO Neos Knight       |          Elementar-HELD Neos Knight         |  EXVC-DE093 |
++------------+-----------------------------------------+---------------------------------------------+-------------+
