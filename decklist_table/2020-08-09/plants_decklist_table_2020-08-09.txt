@@ -1,0 +1,84 @@
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+| Qty |                      Name                     |     Rarity    | Ed. |    Set     | Lang. | Price (Avg) | Price (High) | Price (Low) | Shift 3M | Shift 6M | Shift 1Y |
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+|  1  | Black Luster Soldier - Envoy of the Beginning |     Ultra     | Unl |  IOC-025   |  ENG  |     54.0    |    800.0     |    17.95    |  96.94   |  248.61  |  141.29  |
+|  2  |            Caius the Shadow Monarch           |    Ultimate   | Unl | TU03-EN000 |  ENG  |    83.69    |    100.98    |     70.0    |  53.08   |  86.77   |  53.93   |
+|  1  |                   Tragoedia                   |    Ultimate   | Unl | TU04-EN000 |  SPA  |    94.97    |    199.99    |    85.99    |  162.2   |  176.4   |  89.07   |
+|  2  |                 Effect Veiler                 |    Ultimate   | 1st | DREV-EN002 |  ENG  |    20.32    |    317.82    |     9.6     |  184.59  |  201.93  |  -74.76  |
+|  2  |                    Maxx "C"                   |    Ultimate   | Unl | AP04-EN002 |  SPA  |    577.81   |   1000.99    |    249.99   |  49.57   |  100.88  |  246.13  |
+|  2  |              Thunder King Rai-oh              |    Ultimate   | Unl | TU08-EN000 |  ENG  |    98.56    |   1002.06    |    87.01    |  31.89   |  99.15   |  154.55  |
+|  3  |         Tour Guide From the Underworld        |    Ultimate   | Unl | AP06-EN001 |  ITA  |    205.04   |    400.99    |    164.94   |   3.26   |  58.76   |  170.47  |
+|  1  |                     Sangan                    |     Super     | Unl | RP01-EN036 |  ENG  |     79.5    |     75.0     |     75.0    |  61.03   |  66.95   |   17.0   |
+|  1  |                 Debris Dragon                 |    Ultimate   | Unl | AP01-EN002 |  ENG  |     41.8    |    143.57    |    29.49    |  -9.74   |  85.37   |   70.4   |
+|  1  |                   Dandylion                   |    Ultimate   | Unl | AP04-EN001 |  ENG  |    73.83    |    102.07    |    59.99    |  -14.83  |  178.29  |  126.75  |
+|  1  |                  Glow-Up Bulb                 |    Ultimate   | 1st | STBL-EN018 |  ITA  |    10.48    |    129.95    |     5.11    |  -68.92  |  -75.65  |  -74.07  |
+|  1  |                Lonefire Blossom               |     Super     | Unl | CP07-EN005 |  ENG  |    75.26    |    199.99    |    58.95    |   2.12   |  12.97   |  -45.87  |
+|  3  |                  Reborn Tengu                 |     Ultra     | Lim | EXVC-ENSP1 |  ITA  |    12.39    |    23.36     |     5.95    |  72.32   |  80.88   |  87.44   |
+|  1  |                Night Assailant                |     Super     | Unl | CP01-EN005 |  ITA  |    175.23   |    502.07    |    100.18   |   7.79   |   3.59   |   5.96   |
+|  1  |                     Spore                     |     Super     | Lim | GENF-ENSE2 |  ENG  |    13.49    |    37.55     |     2.47    |  275.77  |  277.87  |  185.2   |
+|  1  |                  One For One                  |     Super     | Lim | DPCT-ENY08 |  ENG  |    19.04    |    30.92     |    10.25    |  109.23  |  122.43  |  127.75  |
+|  1  |                 Foolish Burial                |     Super     | Unl | TU02-EN004 |  ENG  |    165.59   |    999.95    |    130.0    |  69.89   |  112.73  |  154.87  |
+|  2  |                 Pot of Avarice                |    Ultimate   | 1st | EEN-EN037  |  DEU  |     6.9     |    314.99    |     5.48    |  -28.2   |  -72.17  |  -83.84  |
+|  1  |                  Book of Moon                 |     Ultra     | Unl | TU07-EN001 |  ENG  |    18.97    |    102.0     |    15.99    |  -2.12   |  -28.44  |  -18.86  |
+|  2  |                Enemy Controller               |     Ultra     | Unl |  AST-037   |  ENG  |     7.2     |     53.9     |     2.57    |   9.59   |  18.03   |  -50.03  |
+|  1  |                  Mind Control                 |     Super     | Unl | WC5-EN003  |  DEU  |    14.31    |    27.33     |     2.48    |  37.86   |  46.02   |  93.64   |
+|  1  |                 Monster Reborn                |     Super     | Unl | RP01-EN016 |  ITA  |    33.79    |    54.99     |    16.85    |   7.03   |  10.24   |  -11.08  |
+|  2  |             Mystical Space Typhoon            |    Ultimate   | Unl | AP08-EN002 |  ENG  |    91.38    |    175.99    |    79.99    |   6.26   |  47.82   |  51.22   |
+|  2  |                 Solemn Warning                |    Ultimate   | 1st | DREV-EN077 |  ENG  |     8.33    |    169.99    |     4.88    |  -8.96   |  -38.57  |  -80.0   |
+|  1  |                 Trap Dustshoot                |     Super     | Unl | CP05-EN005 |  ITA  |    181.0    |    250.0     |    139.99   |  134.79  |  153.43  |  97.02   |
+|  1  |              Call of the Haunted              |     Ultra     | Unl |  PSV-012   |  ENG  |     5.56    |    52.06     |     3.38    |  35.94   |   29.3   |  -9.59   |
+|  1  |                  Mirror Force                 |     Ultra     | Unl |  MRD-138   |  ENG  |    11.39    |    811.98    |     2.99    |  62.95   |  102.31  |   4.11   |
+|  1  |      Trishula, Dragon of the Ice Barrier      | Duel Terminal | DuT | DT04-EN092 |  ENG  |    804.72   |    500.0     |    329.99   |  382.53  |  431.94  |  38.09   |
+|  1  |                  Scrap Dragon                 |    Ultimate   | 1st | DREV-EN043 |  DEU  |     3.14    |    299.95    |     1.88    |   7.9    |  19.39   |  -74.39  |
+|  1  |                Stardust Dragon                |    Ultimate   | Unl | TDGS-EN040 |  ENG  |    14.06    |    200.0     |     5.0     |  100.0   |  103.77  |  -42.21  |
+|  1  |               Black Rose Dragon               |    Ultimate   | Unl | CSOC-EN039 |  ITA  |    20.18    |    1005.0    |     5.0     |  370.4   |  500.6   |  28.21   |
+|  1  |              Ancient Fairy Dragon             |    Ultimate   | Unl | ANPR-EN040 |  ITA  |     4.54    |    74.95     |     3.53    |  -6.58   |  -39.79  |  -43.74  |
+|  1  |       Brionac, Dragon of the Ice Barrier      | Duel Terminal | DuT | DT01-EN031 |  ENG  |    82.25    |    124.99    |    52.07    |  109.71  |  133.07  |  93.85   |
+|  1  |                 Orient Dragon                 |     Secret    | 1st | GENF-EN085 |  DEU  |     6.51    |     43.5     |     2.51    |  117.73  |  204.21  |  228.79  |
+|  1  |            Ally of Justice Catastor           |    Ultimate   | Unl | TU07-EN000 |  DEU  |    44.06    |    249.95    |    33.93    |  88.13   |  109.51  |  67.53   |
+|  1  |              T.G. Hyper Librarian             |     Ultra     | Lim | JUMP-EN051 |  ENG  |     11.6    |    55.15     |     7.19    |   0.17   |  -1.69   |  180.87  |
+|  1  |                   Armory Arm                  |     Ultra     | 1st | DP08-EN016 |  ITA  |     6.01    |    34.28     |     1.67    |  -3.06   |  34.75   |  59.42   |
+|  2  |                Formula Synchron               |      None     | Lim | OP13-EN017 |  DEU  |     2.61    |     6.39     |     1.78    |   0.0    |   0.0    |   0.0    |
+|  1  |          Number 17: Leviathan Dragon          |    Ultimate   | 1st | GENF-EN039 |  ITA  |    20.85    |    30.99     |    11.33    |  149.4   |  321.21  |  529.91  |
+|  1  |             Leviair the Sea Dragon            |    Ultimate   | Unl | GENF-EN043 |  ENG  |    20.61    |    85.81     |     4.73    |  38.88   |  21.09   |  63.96   |
+|  1  |                Steelswarm Roach               |     Secret    | 1st | GENF-EN099 |  SPA  |     9.75    |    39.44     |     7.26    |   41.1   |  107.01  |  119.1   |
++-----+-----------------------------------------------+---------------+-----+------------+-------+-------------+--------------+-------------+----------+----------+----------+
+Date Updated: 2020-08-09
++---------+-------+------+
+| Average |  High | Low  |
++---------+-------+------+
+|   3231  | 10831 | 1905 |
++---------+-------+------+
++--------+------------+------------+-------------+---------------+-----------------------------------+
+| Common | Super Rare | Ultra Rare | Secret Rare | Ultimate Rare | Duel Terminal Ultra Parallel Rare |
++--------+------------+------------+-------------+---------------+-----------------------------------+
+|   2    |     9      |     11     |      2      |       28      |                 2                 |
++--------+------------+------------+-------------+---------------+-----------------------------------+
++-----+-----+-----+-----+
+| ENG | DEU | ITA | SPA |
++-----+-----+-----+-----+
+|  28 |  8  |  14 |  4  |
++-----+-----+-----+-----+
++------------+--------------------------------+----------------------------------------+-------------+
+|    Set     |              Name              |              Foreign Name              | Foreign Set |
++------------+--------------------------------+----------------------------------------+-------------+
+| TU04-EN000 |           Tragoedia            |               Tragoedia                |  TU04-SP000 |
+| AP04-EN002 |            Maxx "C"            |                "C" Maxx                |  AP04-SP002 |
+| AP06-EN001 | Tour Guide From the Underworld |    Guida Tour del Mondo Sotterraneo    |  AP06-IT001 |
+| STBL-EN018 |          Glow-Up Bulb          |             Bulbo Luminoso             |  STBL-IT018 |
+| EXVC-ENSP1 |          Reborn Tengu          |           Tengu Resuscitato            |  EXVC-ITSP1 |
+| CP01-EN005 |        Night Assailant         |          Assalitore Notturno           |  CP01-IT005 |
+| EEN-EN037  |         Pot of Avarice         |           Topf der Trägheit            |  EEN-DE037  |
+| WC5-EN003  |          Mind Control          |           Gedankenkontrolle            |  WC5-DE003  |
+| RP01-EN016 |         Monster Reborn         |           Mostro Resuscitato           |  RP01-IT016 |
+| CP05-EN005 |         Trap Dustshoot         |            Trappola Botola             |  CP05-IT005 |
+| DREV-EN043 |          Scrap Dragon          |             Schrottdrache              |  DREV-DE043 |
+| CSOC-EN039 |       Black Rose Dragon        |            Drago Rosa Nera             |  CSOC-IT039 |
+| ANPR-EN040 |      Ancient Fairy Dragon      |          Antico Drago Fatato           |  ANPR-IT040 |
+| GENF-EN085 |         Orient Dragon          |             Orient-Drache              |  GENF-DE085 |
+| TU07-EN000 |    Ally of Justice Catastor    | Verbündeter der Gerechtigkeit Catastor |  TU07-DE000 |
+| DP08-EN016 |           Armory Arm           |            Braccio Arsenale            |  DP08-IT016 |
+| OP13-EN017 |        Formula Synchron        |             Formelsynchron             |  OP13-DE017 |
+| GENF-EN039 |  Number 17: Leviathan Dragon   |       Numero 17: Drago Leviatano       |  GENF-IT039 |
+| GENF-EN099 |        Steelswarm Roach        |        Cucaracha Horda de Acero        |  GENF-SP099 |
++------------+--------------------------------+----------------------------------------+-------------+

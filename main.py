@@ -5,8 +5,14 @@ from utils import output_table
 
 if __name__ == "__main__":
 
-    my_collection = ['goat_decklist', 'yugi_decklist', 'jaden_decklist', 'zane_decklist',
-                     'teledad_decklist', 'plants_decklist', 'lightsworn_decklist']
+    my_collection = [ #'goat_decklist',
+                     # 'yugi_decklist',
+                     # 'jaden_decklist',
+                     # 'zane_decklist',
+                     # 'teledad_decklist',
+                     'plants_decklist'
+                     # 'lightsworn_decklist'
+                     ]
     # binder_decklist
 
     for my_deck in my_collection:
